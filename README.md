@@ -1,4 +1,4 @@
-# github.io
+# 解决github不显示图片的问题
 修改hosts
 
 C:\Windows\System32\drivers\etc\hosts
@@ -6,7 +6,7 @@ C:\Windows\System32\drivers\etc\hosts
 在文件末尾添加：
 
 # GitHub Start 
-192.30.253.112    Build software better, together 
+192.30.253.112    Build software better, together
 192.30.253.119    gist.github.com
 151.101.184.133    assets-cdn.github.com
 151.101.184.133    raw.githubusercontent.com
